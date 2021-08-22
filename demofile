@@ -1,1 +1,17 @@
-This is incomplete file.... and need to continue but.....
+<<<<<<< Updated upstream
+This is incomplete file.... and need to continue but I have completed now.
+=======
+Second code for client.
+
+#import java.io
+class ABC
+{
+	public static void main(String args[])
+	{
+	var a=10;
+	var b=20;
+	var c=a+b;
+	System.out.println("Tha value of c is:"+c);
+	}
+}
+

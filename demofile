@@ -11,6 +11,7 @@ class ABC
 	var a=10;
 	var b=20;
 	var c=a+b;
+	var d;	// Incorrect code
 	System.out.println("Tha value of c is:"+c);
 	}
 }

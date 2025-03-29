@@ -4,14 +4,13 @@ This is incomplete file.... and need to continue but I have completed now.
 Second code for client.
 
 #import java.io
-class ABC
+class abc
 {
 	public static void main(String args[])
 	{
 	var a=10;
 	var b=20;
 	var c=a+b;
-	var d;	// Incorrect code
 	System.out.println("Tha value of c is:"+c);
 	}
 }
